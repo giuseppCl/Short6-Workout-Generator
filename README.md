@@ -51,10 +51,16 @@ Specifically:
 - No user accounts or login required
 - No tracking or analytics
 - No access to location, contacts, camera, or microphone
-- No data transmission or third-party services
+- No data transmission to third-party services
 - No cookies or external servers
 
-The app works fully offline and respects your privacy.  
+While some core features work offline, the app **does** communicate with our backend to:
+- Download new workout plans
+- Check for and deliver software updates
+- Sync usage settings (no personal identifiers)
+
+No personal data, location information, or other user data is transmitted to our servers or any third parties.
+
 If anything changes in the future, this policy will be updated accordingly.
 
 ---

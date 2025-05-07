@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Short6 – Minimalist Fitness App
+# 🏋️‍♂️ Short6 – Workout Generator App
 
 **Short6 is a minimalist training app for daily full-body workouts – no login, no ads, no data tracking.**  
 Perfect for anyone who wants quick and effective workouts at home or on the go.

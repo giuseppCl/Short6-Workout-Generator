@@ -72,9 +72,11 @@ If anything changes in the future, this policy will be updated accordingly.
 > Use of the app is at your own risk.  
 > Short6 and its creators accept **no liability** for injuries or damage resulting from the use of the app.
 
-By using the app, you agree to this disclaimer.
+**Materials and Equipment**
+> Prior to use, please carefully inspect **all** materials, equipment, furniture, and other aids (e.g., tables, benches, chairs, yoga blocks, resistance bands) for **stability**, **load capacity**, and **integrity**.  
+> Short6 and its creators accept **no liability** for accidents, damage, or injuries resulting from defective, unstable, or improperly used equipment.
 
----
+By using the app, you agree to this disclaimer.
 
 ## 📬 Contact: Questions or feedback?
 

@@ -66,6 +66,17 @@ If anything changes in the future, this policy will be updated accordingly.
 
 ---
 
+## Internet Access
+
+This app requires Internet access **only** to:
+- Download new workout plans
+- Check for and deliver software updates
+- Sync usage settings (no personal identifiers)
+
+No personal data, location information, or other user data is transmitted to our servers or any third parties.
+
+---
+
 ## Disclaimer
 
 > The content and training plans in Short6 are for informational and motivational purposes only.  
